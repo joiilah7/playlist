@@ -23,12 +23,12 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [x ] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
-- [ ] Push your changes!
+- [ x] Push your changes!
 
 ## Day 2
 
 ## JavaScript
-- [ ] Add song information to your list using .push()
+- [x ] Add song information to your list using .push()
 - [ ] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
 
 #### Wrap

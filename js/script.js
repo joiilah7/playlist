@@ -49,4 +49,11 @@ songLinkArray.forEach(function(link){
  let newLink = $(".songLink").val();
 
  songNameArray.push(newName);
- songArtistArray.push(newArtist)
+ songArtistArray.push(newArtist);
+ songLengthArray.push(newLength);
+ songImageArray.push(newImage);
+ songLinkArray.push(newLink);
+
+$( ".button" ).click(function() {
+    $(".songName").val();
+})
